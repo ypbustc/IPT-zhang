@@ -99,11 +99,8 @@ CCTV16 4K,http://hao6688.3322.org:30066/stream/channelid/1147168350?ticket=1faed
 深圳卫视4K,http://hao6688.3322.org:30066/stream/channelid/159257836?ticket=82c37c6cbd22cd385b0a5decc71df4deaa346943&profile=pass
 四川卫视4K,http://hao6688.3322.org:30066/stream/channelid/538305603?ticket=48cdbb7a2653e430084bf62130cad873bfb69ec7&profile=pass
 浙江卫视4K,http://hao6688.3322.org:30066/stream/channelid/1624000683?ticket=eb96c9b8f0008ce9de6064e86a5de4d3b2f69ec5&profile=pass
-CCTV16 4K,http://49.232.195.88:55667/cctv164k.m3u8
 
 CCTV,#genre#
-CCTV8K,http://49.232.195.88:55667/cctv8k.m3u8
-CCTV4K,http://49.232.195.88:55667/cctv4k.m3u8
 CCTV4K,http://home.wscxy.fun:30100/udp/233.18.204.204:5140
 CCTV4K,http://home.wscxy.fun:30100/udp/233.18.204.188:5140
 CCTV4K,http://114.254.36.134:8888/udp/239.3.1.245:2000
@@ -468,7 +465,6 @@ CCTV16,http://hao6688.3322.org:30066/stream/channelid/773660418?ticket=47645cd62
 CCTV17,http://hao6688.3322.org:30066/stream/channelid/1311739751?ticket=4dbdea18712ab93721ac480be6aa1448dcb5dbcc&profile=pass
 CCTV兵器科技,http://hao6688.3322.org:30066/stream/channelid/438074183?ticket=44fcc7bdc9d088a2a012504a3009dc538d089730&profile=pass
 CCTV女性时尚,http://hao6688.3322.org:30066/stream/channelid/743000278?ticket=e9caf6ca5bd6497cc5c7654fa922f9166a727868&profile=pass
-CCTV5,http://49.232.195.88:55667/cctv5.m3u8
 大陆卫视,#genre#
 安徽卫视,http://220.176.219.21:9000/udp/239.252.220.83:5140
 北京卫视,http://220.176.219.21:9000/udp/239.252.219.206:5140
@@ -1284,17 +1280,6 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
-法国1 4K,https://test.946985.filegear-sg.me/proxy/8bf6d62eb9dc2206
-法国1,https://test.946985.filegear-sg.me/proxy/71eb898aa398f1b9
-法国2 4K,https://test.946985.filegear-sg.me/proxy/69bf3d28c4a2aea9
-法国2,https://test.946985.filegear-sg.me/proxy/053bf6fe5cb58e79
-法国3,https://test.946985.filegear-sg.me/proxy/9a98c5ce88baad6e
-法国4,https://test.946985.filegear-sg.me/proxy/407c8b4eed931f9f
-法国5,https://test.946985.filegear-sg.me/proxy/2790b25f56f45e5f
-法国M6,https://test.946985.filegear-sg.me/proxy/cda17ffd0436edbe
-法国gulli,https://test.946985.filegear-sg.me/proxy/7e0a9ae6a27eee96
-法国Canal+,https://test.946985.filegear-sg.me/proxy/9d114bb59c1b6cab
-法国Canal+ 4K,https://test.946985.filegear-sg.me/proxy/310a1cccd2d0e931
 财经频道,#genre#
 东方财经,http://hao6688.3322.org:30066/stream/channelid/989710431?ticket=396ac95d7a8f72f919030c61b6d3039c494507bd&profile=pass
 第一财经,http://home.wscxy.fun:30100/udp/233.18.204.59:5140
@@ -1840,11 +1825,6 @@ NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
 NOW 90s00s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
 Concerto,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
 TRACE Urban,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
-德国Deluxe Music,https://test.946985.filegear-sg.me/proxy/a341324bc76a1184
-法国M6 音乐,https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
-法国Mezzo Live,https://test.946985.filegear-sg.me/proxy/749755700e4ed9c6
-法国Mezzo,https://test.946985.filegear-sg.me/proxy/b3e72e32c5be5e8e
-法国NRJ Hits,https://test.946985.filegear-sg.me/proxy/a23981548880f405
 TV HD,http://104.250.145.6/livehttpplay?channel_id=16504
 MTV LIVE HD,http://nor1live.win:80/livehttpplay?channel_id=23081
 Первый Музыкальный,http://hz1.teleport.cc/HLS/HD.m3u8
@@ -1976,65 +1956,7 @@ SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
 SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
 Tnt Sports1,http://iptv.4666888.xyz/iptv2A.php?id=3
 智林体育,http://iptv.4666888.xyz/iptv2A.php?id=5
-SPORTS,#genre#
-卫视体育1,http://hao6688.3322.org:30066/stream/channelid/1930074243?ticket=a05e683ad825f3473c13263566be76e1b2efcb98&profile=pass
-卫视体育2,http://hao6688.3322.org:30066/stream/channelid/921123082?ticket=4c497968849ab6b212186eda1a319daae0a20c84&profile=pass
-NOW体育1 4K,https://test.946985.filegear-sg.me/proxy/5ed27bcd436513bd
-NOW体育1 4K,https://test.946985.filegear-sg.me/proxy/7e4a6fd94d011e30
-NOW体育1,https://test.946985.filegear-sg.me/proxy/b8a6ffa9c37960bd
-NOW体育2,https://test.946985.filegear-sg.me/proxy/19d106fbb517982c
-NOW体育3,https://test.946985.filegear-sg.me/proxy/6e9eaa96ebb03cfd
-NOW体育4,https://test.946985.filegear-sg.me/proxy/0843bbdcb376f69f
-NOW体育5,https://test.946985.filegear-sg.me/proxy/2d38aed84084019e
-NOW体育6,https://test.946985.filegear-sg.me/proxy/b4f4823421f6b1d0
-NOW体育7,https://test.946985.filegear-sg.me/proxy/fdae6d431aeb4f93
-NOW体育精选,https://test.946985.filegear-sg.me/proxy/9adf0b8d593300d0
-NOW体育精选,https://test.946985.filegear-sg.me/proxy/f3108ab57298125d
-NOW英超 TV,https://test.946985.filegear-sg.me/proxy/b18a66280e388d5b
-NOW英超 TV,https://test.946985.filegear-sg.me/proxy/ea0fd7747193f8e6
-NOW英超1,https://test.946985.filegear-sg.me/proxy/ff98a175358809c5
-NOW英超2,https://test.946985.filegear-sg.me/proxy/aad124f0600b4d6f
-NOW英超3,https://test.946985.filegear-sg.me/proxy/73c11b4e5fd8b97c
-NOW英超4,https://test.946985.filegear-sg.me/proxy/473540e0921bd6b9
-NOW英超5,https://test.946985.filegear-sg.me/proxy/ff9c1578175ab65a
-NOW英超6,https://test.946985.filegear-sg.me/proxy/659676acf09b57de
-欧洲体育1,https://test.946985.filegear-sg.me/proxy/0ec0634135a2cd3e
-欧洲体育1,https://test.946985.filegear-sg.me/proxy/1ecc8ebee4a45909
-欧洲体育1,https://test.946985.filegear-sg.me/proxy/f51e9e9f89a7c51b
-欧洲体育2,https://test.946985.filegear-sg.me/proxy/60fbadb5d9cb8c73
-欧洲体育2,https://test.946985.filegear-sg.me/proxy/8d4df0de49a19a92
-欧洲体育2,https://test.946985.filegear-sg.me/proxy/f3ac916626fd3059
-波兰CANAL+ Sport 2,https://test.946985.filegear-sg.me/proxy/4be17144e088af8c
-波兰CANAL+ Sport,https://test.946985.filegear-sg.me/proxy/4bcdff64289c1f4b
-波兰Polsat Sport Premium 1,https://test.946985.filegear-sg.me/proxy/2d01a86f2b919823
-波兰Polsat Sport Premium 2,https://test.946985.filegear-sg.me/proxy/0d12c4e1bf16ebac
-法国beIN体育1,https://test.946985.filegear-sg.me/proxy/d4607e328de9276d
-法国beIN体育2,https://test.946985.filegear-sg.me/proxy/036c7921c2126f1c
-法国beIN体育3,https://test.946985.filegear-sg.me/proxy/7219fff9bec70249
-法国CANAL +FOOT,https://test.946985.filegear-sg.me/proxy/ef3174f16d4557d2
-法国CANAL +SPORT 360,https://test.946985.filegear-sg.me/proxy/3ea1678cd883a5de
-法国CANAL +SPORT,https://test.946985.filegear-sg.me/proxy/2aa21fe914880e6a
-法国CANAL GOLF+,https://test.946985.filegear-sg.me/proxy/6f6259c47fc0783c
-法国CANAL+ LIVE 1,https://test.946985.filegear-sg.me/proxy/f5ead7385ef9e3d7
-法国CANAL+ LIVE 2,https://test.946985.filegear-sg.me/proxy/9b5f8a8854074719
-法国CANAL+ LIVE 3,https://test.946985.filegear-sg.me/proxy/a820824fa7237a0d
-罗马尼亚PRIMA Sport1,https://test.946985.filegear-sg.me/proxy/031a3f93785f5e10
-罗马尼亚PRIMA Sport2,https://test.946985.filegear-sg.me/proxy/234ec786219f8851
-罗马尼亚PRIMA Sport3,https://test.946985.filegear-sg.me/proxy/920332fcf92f7eec
-罗马尼亚PRIMA Sport4,https://test.946985.filegear-sg.me/proxy/ae7af16a08df032d
-罗马尼亚PRIMA Sport5,https://test.946985.filegear-sg.me/proxy/fda91827991eb386
-葡萄牙sporttv 1,https://test.946985.filegear-sg.me/proxy/b57707d48ea3395e
-葡萄牙sporttv 2,https://test.946985.filegear-sg.me/proxy/8ce632cfdf21dc5e
-葡萄牙sporttv 3,https://test.946985.filegear-sg.me/proxy/ad07dd4338ccb671
-葡萄牙sporttv 4,https://test.946985.filegear-sg.me/proxy/6df3bb711f916488
-葡萄牙sporttv 5,https://test.946985.filegear-sg.me/proxy/2e5a3cb38f72a6dd
-葡萄牙sporttv 6,https://test.946985.filegear-sg.me/proxy/4ff930484c5dcc99
-葡萄牙sporttv 7,https://test.946985.filegear-sg.me/proxy/a8c7608240dec023
 其它频道,#genre#
 KCTV朝鲜中央电视,http://bt.sc1970.xyz:9099/tv.intchoson.com/kctv/main_stream.m3u8
 经典短剧轮播,https://down-hls.qxiu.com/live/455246/index.m3u8
 经典电影轮播,https://down-hls.qxiu.com/live/453135/index.m3u8
-KIX,http://bt.sc1970.xyz:9099/45.198.32.149:9003/play/KIX/index.m3u8
-天映经典,http://bt.sc1970.xyz:9099/45.198.32.161:8978/play/ccm/index.m3u8
-天映频道,http://bt.sc1970.xyz:9099/45.198.32.161:8978/play/CELESTIALMOVIES/index.m3u8
-MILITAR HISTORY,http://104.250.145.6/livehttpplay?channel_id=23213
