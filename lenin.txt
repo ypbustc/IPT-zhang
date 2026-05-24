@@ -88,17 +88,7 @@ CCTV16 4K,http://171.83.103.119:9999/udp/239.69.1.249:11136
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 北京纪实8K,http://8kdown.brtvcloud.com/8klive/8kliveok.m3u8?txSecret=a9cfb6acb08a9fe154a8ba6d0226cfef&txTime=71697CD5
 北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-4K,http://hao6688.3322.org:30066/stream/channelid/1979257837?ticket=ed9886fc04f104c278d6aa79ff1fb5da238239a5&profile=pass
-CCTV16 4K,http://hao6688.3322.org:30066/stream/channelid/1147168350?ticket=1faed059d188706c7c86e45b1d79d5a26bb0a291&profile=pass
-北京卫视4K,http://hao6688.3322.org:30066/stream/channelid/550971458?ticket=dcdf694dae0c7df2e8207d51e49dda2fbb6010e4&profile=pass
-东方卫视4K,http://hao6688.3322.org:30066/stream/channelid/973680799?ticket=67a560d9198aa31ce4c8c869e7f696f04d5cdc7a&profile=pass
-广东卫视4K,http://hao6688.3322.org:30066/stream/channelid/2122208326?ticket=f550efbb2d3c100694b862595ab5be94b4f8d7c0&profile=pass
-湖南卫视4K,http://hao6688.3322.org:30066/stream/channelid/397134166?ticket=d548c35dab0be8608b5fa1e47c51be339a45430a&profile=pass
-江苏卫视4K,http://hao6688.3322.org:30066/stream/channelid/715101970?ticket=bc6299104db2bf59f7498f580ee6a8934c859844&profile=pass
-山东卫视4K,http://hao6688.3322.org:30066/stream/channelid/481796221?ticket=13cffa78d9f695c9ab1a248cc1303a6088290aee&profile=pass
-深圳卫视4K,http://hao6688.3322.org:30066/stream/channelid/159257836?ticket=82c37c6cbd22cd385b0a5decc71df4deaa346943&profile=pass
-四川卫视4K,http://hao6688.3322.org:30066/stream/channelid/538305603?ticket=48cdbb7a2653e430084bf62130cad873bfb69ec7&profile=pass
-浙江卫视4K,http://hao6688.3322.org:30066/stream/channelid/1624000683?ticket=eb96c9b8f0008ce9de6064e86a5de4d3b2f69ec5&profile=pass
+
 
 CCTV,#genre#
 CCTV4K,http://home.wscxy.fun:30100/udp/233.18.204.204:5140
@@ -444,27 +434,7 @@ CCTV世界地理,http://207.56.13.146:81/cdnlive/sjdl.m3u8
 CCTV卫生健康,http://207.56.13.146:81/cdnlive/wsjk.m3u8
 CCTV文化精品,http://207.56.13.146:81/cdnlive/ysjp.m3u8
 CCTV央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
-CCTV4K,http://hao6688.3322.org:30066/stream/channelid/444220679?ticket=4d56cb83348a3e3e75257e14239a0a76c18e1267&profile=pass
-CCTV1,http://hao6688.3322.org:30066/stream/channelid/197713878?ticket=ec75b676f9649173d7467a6dd560d88f59de721b&profile=pass
-CCTV2,http://hao6688.3322.org:30066/stream/channelid/1700194728?ticket=9a2f7e348130f23ab625a1b1955578f8e9863c3c&profile=pass
-CCTV3,http://hao6688.3322.org:30066/stream/channelid/1584516669?ticket=fa4ecb6f60a924830c6a19fdc5a981f6ac550b0b&profile=pass
-CCTV4,http://hao6688.3322.org:30066/stream/channelid/722781944?ticket=87f224de949a7a0ebd5a4cf1f8a480d4abdf729f&profile=pass
-CCTV5+,http://hao6688.3322.org:30066/stream/channelid/1027286906?ticket=4d44472a4dcebda6fdd2fa060dc76bea2a2b05c5&profile=pass
-CCTV5,http://hao6688.3322.org:30066/stream/channelid/1347531052?ticket=fdd684b8f522376e9c698537aa5446a2c290d76e&profile=pass
-CCTV6,http://hao6688.3322.org:30066/stream/channelid/1273944529?ticket=a9f41375560abbd036217389b028e0a2e72157cf&profile=pass
-CCTV7,http://hao6688.3322.org:30066/stream/channelid/1148086425?ticket=e76bf68e07a2575de88adc9bb16d985fff3cb3ea&profile=pass
-CCTV8,http://hao6688.3322.org:30066/stream/channelid/1458219326?ticket=3a20e70e44577eb89459ec3904532b8a6d43eda2&profile=pass
-CCTV9,http://hao6688.3322.org:30066/stream/channelid/1542699185?ticket=8b496e0ca56a41ab298cdb17dc57822a8d6930e4&profile=pass
-CCTV10,http://hao6688.3322.org:30066/stream/channelid/436563839?ticket=da46b80b76785d5a8675a1e693c3722c3cd3f28d&profile=pass
-CCTV11,http://hao6688.3322.org:30066/stream/channelid/1853027132?ticket=139976274b987e374e5816089cb1ae8aedbacc74&profile=pass
-CCTV12,http://hao6688.3322.org:30066/stream/channelid/1186766229?ticket=bc6e76f1a2882842c64d6d563cb6b732df4a483a&profile=pass
-CCTV13,http://hao6688.3322.org:30066/stream/channelid/1650386631?ticket=70b8d07bb4001a6358fbfd8600d195082357c3ad&profile=pass
-CCTV14,http://hao6688.3322.org:30066/stream/channelid/1608371197?ticket=9bc0812da9f7687a1f233bcc8358c2df22002353&profile=pass
-CCTV15,http://hao6688.3322.org:30066/stream/channelid/253309103?ticket=236e04c48b52ff94c3c6adb7936030a7de1367f7&profile=pass
-CCTV16,http://hao6688.3322.org:30066/stream/channelid/773660418?ticket=47645cd62d5468305eb49ae1422e90bdf0441f5a&profile=pass
-CCTV17,http://hao6688.3322.org:30066/stream/channelid/1311739751?ticket=4dbdea18712ab93721ac480be6aa1448dcb5dbcc&profile=pass
-CCTV兵器科技,http://hao6688.3322.org:30066/stream/channelid/438074183?ticket=44fcc7bdc9d088a2a012504a3009dc538d089730&profile=pass
-CCTV女性时尚,http://hao6688.3322.org:30066/stream/channelid/743000278?ticket=e9caf6ca5bd6497cc5c7654fa922f9166a727868&profile=pass
+
 大陆卫视,#genre#
 安徽卫视,http://jxyxnk.x3322.net:4022/udp/239.252.220.83:5140
 北京卫视,http://jxyxnk.x3322.net:4022/udp/239.252.219.206:5140
@@ -865,27 +835,7 @@ CCTV女性时尚,http://hao6688.3322.org:30066/stream/channelid/743000278?ticket
 云南卫视,http://207.56.13.146:81/cdnlive/ynws.m3u8
 浙江卫视,http://207.56.13.146:81/cdnlive/zjws.m3u8
 重庆卫视,http://207.56.13.146:81/cdnlive/cqws.m3u8
-安徽卫视,http://hao6688.3322.org:30066/stream/channelid/290920485?ticket=8f51cae4099f8fad92c8468d6f003a1ef4db2963&profile=pass
-北京卫视,http://hao6688.3322.org:30066/stream/channelid/468543177?ticket=e12158c456e2d1ad5dbe79474f2d834513d96a58&profile=pass
-东方卫视,http://hao6688.3322.org:30066/stream/channelid/1249987989?ticket=4e098921d1b171176d0c70d7e5da7752441792c1&profile=pass
-广东卫视,http://hao6688.3322.org:30066/stream/channelid/1840379521?ticket=7d1d699a2ea567e883155e59b6380a6663874f94&profile=pass
-河南卫视,http://hao6688.3322.org:30066/stream/channelid/471733393?ticket=4609afceb34e27379fd41289a082da54a23ad6f7&profile=pass
-黑龙江卫视,http://hao6688.3322.org:30066/stream/channelid/1317717027?ticket=bfff8cf5122e2ed3673473d8ed00667dc06fcddd&profile=pass
-湖北卫视,http://hao6688.3322.org:30066/stream/channelid/1709764165?ticket=ffdf4121a1ee3e8b0ea773ba165c868242d3934f&profile=pass
-湖南卫视,http://hao6688.3322.org:30066/stream/channelid/176332567?ticket=50e1cf79e0493b047799f6715adf3d8dae3d241a&profile=pass
-江苏卫视,http://hao6688.3322.org:30066/stream/channelid/1396724495?ticket=577907a8ee6de6ae63cfe00c9ded8785309a4a22&profile=pass
-江西卫视,http://hao6688.3322.org:30066/stream/channelid/721385086?ticket=7664fd97fca153d3289df47f4aafd49cb4d68164&profile=pass
-辽宁卫视,http://hao6688.3322.org:30066/stream/channelid/12798796?ticket=41abe51de80ed1c5c13a4c369bc8ca28e33616ee&profile=pass
-厦门卫视,http://hao6688.3322.org:30066/stream/channelid/1572025371?ticket=689464e25681d33610933599cf8f6f3b858ba6a3&profile=pass
-山东卫视,http://hao6688.3322.org:30066/stream/channelid/745965704?ticket=20dafbcd83b61af27623a6c8a53f9df6a0e0e8a9&profile=pass
-深圳卫视,http://hao6688.3322.org:30066/stream/channelid/1309304002?ticket=4b1ea4aee824b26ab940f2b1fcaf1e872d673cd3&profile=pass
-四川卫视,http://hao6688.3322.org:30066/stream/channelid/1193557448?ticket=d81d32e5b7871015f9013de585ec008bbeb5c75a&profile=pass
-天津卫视,http://hao6688.3322.org:30066/stream/channelid/385115134?ticket=2bfc48a157990baae33214963dfa764210016ee8&profile=pass
-浙江卫视,http://hao6688.3322.org:30066/stream/channelid/1985238399?ticket=eb5e79d04462ba77ad4206c6c9d67284f069db07&profile=pass
-浙江卫视,http://hao6688.3322.org:30066/stream/channelid/922724137?ticket=1ec9d5ffc7cbd02d70654594ddf65ca6ecff3be6&profile=pass
-重庆卫视,http://hao6688.3322.org:30066/stream/channelid/1853384946?ticket=db3529804f0e90e51ff42be985f91af1553d2c97&profile=pass
-浙江卫视,http://hao6688.3322.org:30066/stream/channelid/1516511437?ticket=26c48d56769e6741a3529f0891a0a568785f1d53&profile=pass
-浙江卫视,http://hao6688.3322.org:30066/stream/channelid/1991276227?ticket=b24331935685500048e648b58e3e4db952ac510d&profile=pass
+
 香港频道,#genre#
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
@@ -893,11 +843,6 @@ CCTV女性时尚,http://hao6688.3322.org:30066/stream/channelid/743000278?ticket
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
-凤凰资讯,http://hao6688.3322.org:30066/stream/channelid/336556813?ticket=87744c9dd418af8aa2df11bd9a15f5ff24d5706b&profile=pass
-凤凰中文,http://hao6688.3322.org:30066/stream/channelid/1842094443?ticket=1816185b7d63e25732b5356603d0cbdb67d18c85&profile=pass
-凤凰电影,http://hao6688.3322.org:30066/stream/channelid/1776639112?ticket=1702a2c002bcd734ff936cd6c06c359b489b63c4&profile=pass
-凤凰中文,http://hao6688.3322.org:30066/stream/channelid/748785546?ticket=e1cb013393b90bea123a52c91d9960fdad3cf3ec&profile=pass
-凤凰资讯,http://hao6688.3322.org:30066/stream/channelid/1699570150?ticket=8f9c6d0472f6f76b569347cbdb2604bd52c5bdde&profile=pass
 TVB无线新闻,http://67.220.71.199:2347/livehttpplay?channel_id=20123
 TVB无线新闻,http://67.220.71.199:2347/livehttpplay?channel_id=30024
 TVB无线新闻,https://cdn6.163189.xyz/163189/wxxw
@@ -909,7 +854,6 @@ HOY77,http://67.220.71.199:2347/livehttpplay?channel_id=20152
 HOY77,https://cdn.163189.xyz/163189/hoy
 HOY77,https://cdn6.163189.xyz/163189/hoy
 HOY78,https://cdn.163189.xyz/163189/hoy78
-NOW,http://hao6688.3322.org:30066/stream/channelid/1202446510?ticket=813edb83caf88d8bc0dd49f6e4cc57baf86c8a55&profile=pass
 NOW新闻,https://cdn.163189.xyz/163189/now
 RTHK31,http://67.220.71.199:2347/livehttpplay?channel_id=20203
 RTHK31,http://67.220.71.199:2347/livehttpplay?channel_id=30066
@@ -935,7 +879,6 @@ TVB华丽翡翠,https://cdn6.163189.xyz/163189/jade
 TVB华丽翡翠,https://o11.163189.xyz/stream/live/hlt/
 TVB千禧经典,https://o11.163189.xyz/stream/live/tvbc/
 TVB武侠,https://cdn6.163189.xyz/163189/yzwx
-TVB星河,http://hao6688.3322.org:30066/stream/channelid/1315612664?ticket=9bd63760500854dae5d5c3bcc62975495aac417d&profile=pass
 TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
 TVB星河,https://cdn6.163189.xyz/163189/tvbxh
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
@@ -1019,7 +962,7 @@ VIUTV6,http://122.100.242.52:12179/stream/channelid/750848819?profile=pass
 澳视葡文,http://122.100.242.52:12179/stream/channelid/1252295614?profile=pass
 台湾频道,#genre#
 HISTORY,http://dbmlasvgas.sylu.cc:8880/stream/c76f2a04-f804-47ab-b555-1bc5516c4bfa/playlist.m3u8
-麦哲伦,http://dbmlasvgas.sylu.cc:8880/stream/fd2db9e3-a596-4a98-ab1b-bc6851e78c52/playlist.m3u8
+MagellanTV,http://dbmlasvgas.sylu.cc:8880/stream/fd2db9e3-a596-4a98-ab1b-bc6851e78c52/playlist.m3u8
 TVBS,http://dbmlasvgas.sylu.cc:8880/stream/29264974-b2b0-418d-85a5-fe02cf74b577/playlist.m3u8
 寰宇新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-longturn14
 寰宇新闻,https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
@@ -1061,9 +1004,7 @@ SBN全球财经,http://220.135.64.124:5050/4gtv-live060/index.m3u8?proxy=true
 中视新闻,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
 中天新闻,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
 AMC电影,http://220.135.64.124:5050/4gtv-4gtv017/index.m3u8?proxy=true
-AXN,http://hao6688.3322.org:30066/stream/channelid/843456280?ticket=3b36e3d97b41957376702ef15837c5d6961ed8d6&profile=pass
 CinemaWorld,http://220.135.64.124:5050/4gtv-live069/index.m3u8?proxy=true
-CINEMAX,http://hao6688.3322.org:30066/stream/channelid/1339446993?ticket=30ba8f6bae64aebd2912effee30232358c195ccf&profile=pass
 CI罪案侦查,http://220.135.64.124:5050/4gtv-live027/index.m3u8?proxy=true
 CLASSICA,http://220.135.64.124:5050/4gtv-4gtv059/index.m3u8?proxy=true
 CLASSICA,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv059&token=https://t.me/GPT_858
@@ -1102,7 +1043,6 @@ TRACE Sport Stars,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv077&token=http
 TRACE Urban,http://220.135.64.124:5050/4gtv-4gtv082/index.m3u8?proxy=true
 TRACE Urban,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv082&token=https://t.me/GPT_858
 TV5 MONDE STYLE,http://220.135.64.124:5050/4gtv-live122/index.m3u8?proxy=true
-TV5 MONDE,http://hao6688.3322.org:30066/stream/channelid/1476756624?ticket=699b0515b3bc79b861ea2ee99c56a43c8dae31e5&profile=pass
 TVBS欢乐,http://220.135.64.124:5050/4gtv-4gtv068/index.m3u8?proxy=true
 TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 爱尔达宠物运动,http://220.135.64.124:5050/4gtv-4gtv070/index.m3u8?proxy=true
@@ -1124,7 +1064,6 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 公视戏剧,http://220.135.64.124:5050/4gtv-4gtv042/index.m3u8?proxy=true
 公视戏剧,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv042&token=https://t.me/GPT_858
 滚动力Rollor,http://220.135.64.124:5050/4gtv-live012/index.m3u8?proxy=true
-国家地理,http://hao6688.3322.org:30066/stream/channelid/2078414118?ticket=e065a44a88cabc5d9ef153287c5af520702b2095&profile=pass
 韩国娱乐,http://220.135.64.124:5050/4gtv-4gtv016/index.m3u8?proxy=true
 韩国娱乐,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv016&token=https://t.me/GPT_858
 好消息,http://220.135.64.124:5050/litv-ftv16/index.m3u8?proxy=true
@@ -1174,7 +1113,7 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 龙华日韩,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang11
 龙华戏剧,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang18
 龙华洋片,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang02
-麦哲伦,http://220.135.64.124:5050/4gtv-live123/index.m3u8?proxy=true
+MagellanTV,http://220.135.64.124:5050/4gtv-live123/index.m3u8?proxy=true
 民视,http://220.135.64.124:5050/4gtv-4gtv002/index.m3u8?proxy=true
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视第一,http://220.135.64.124:5050/4gtv-4gtv003/index.m3u8?proxy=true
@@ -1195,11 +1134,9 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 视纳华仁纪实,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv013&token=https://t.me/GPT_858
 台视,rtmp://f13h.mine.nu/sat/tv071
 台湾戏剧,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang22
-探索频道,http://hao6688.3322.org:30066/stream/channelid/2043319510?ticket=5020714b439c287bf3cfdc0a4069d115647bb9d9&profile=pass
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-卫视电影,http://hao6688.3322.org:30066/stream/channelid/276139302?ticket=797a9386b7fb2ac7031b760bd182c7018541ae95&profile=pass
 新唐人亚太,http://220.135.64.124:5050/4gtv-live050/index.m3u8?proxy=true
 亚洲旅游,http://220.135.64.124:5050/4gtv-4gtv076/index.m3u8?proxy=true
 亚洲旅游,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv076
@@ -1240,7 +1177,6 @@ AL JAZEERA,http://220.135.64.124:5050/4gtv-live157/index.m3u8?proxy=true
 BBC NEWS,http://104.250.145.6/livehttpplay?channel_id=16531
 BBC NEWS,http://nor2live.win:80/livehttpplay?channel_id=16531
 BLOOMBERG,http://220.135.64.124:5050/4gtv-live059/index.m3u8?proxy=true
-BLOOMBERG,http://hao6688.3322.org:30066/stream/channelid/373459538?ticket=f108afff38749af00fd8785242a5b3a14cb80626&profile=pass
 CBS NEWS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 CNBC Asia,http://220.135.64.124:5050/4gtv-live130/index.m3u8?proxy=true
 CNBC HD,http://nor1live.win:80/livehttpplay?channel_id=23115
@@ -1259,7 +1195,6 @@ TRT WORLD,https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 NHK WORLD JAPAN,http://220.135.64.124:5050/4gtv-live168/index.m3u8?proxy=true
 ARIRANG,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-KBS WORLD,http://hao6688.3322.org:30066/stream/channelid/66659752?ticket=91b777df27e378e5ce8088208c23316eeebd28ef&profile=pass
 TYT,https://tyt-samsungus.amagi.tv/playlist.m3u8
 ARIRANG,http://220.135.64.124:5050/4gtv-4gtv079/index.m3u8?proxy=true
 ARIRANG,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv079&token=https://t.me/GPT_858
@@ -1281,7 +1216,6 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 财经频道,#genre#
-东方财经,http://hao6688.3322.org:30066/stream/channelid/989710431?ticket=396ac95d7a8f72f919030c61b6d3039c494507bd&profile=pass
 第一财经,http://home.wscxy.fun:30100/udp/233.18.204.59:5140
 东方财经,http://home.wscxy.fun:30100/udp/233.18.204.65:5140
 第一财经,http://www.liangcl.top:8686/udp/233.50.200.125:5140
@@ -1312,8 +1246,6 @@ CETV4,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 CETV1,http://jxyxnk.x3322.net:4022/udp/239.252.220.198:5140
 CETV2,http://jxyxnk.x3322.net:4022/udp/239.252.219.73:5140
 CETV4,http://jxyxnk.x3322.net:4022/udp/239.252.219.169:5140
-求索纪录,http://hao6688.3322.org:30066/stream/channelid/1611755355?ticket=0d37d43de17d3682105c91e2324be65e20dba58c&profile=pass
-北京纪实,http://hao6688.3322.org:30066/stream/channelid/1920843114?ticket=db6d15a4632925e773e31a694b6676d98d788c72&profile=pass
 求索纪录,http://jxyxnk.x3322.net:4022/udp/239.252.220.224:5140
 乐游,http://jxyxnk.x3322.net:4022/udp/239.252.219.141:5140
 文物宝库,http://jxyxnk.x3322.net:4022/udp/239.252.220.158:5140
@@ -1657,12 +1589,6 @@ CHC影迷电影,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.240:4056
 长影频道,http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 岭南戏曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
 广东珠江,http://67.220.71.199:2347/livehttpplay?channel_id=20144
-CHC动作电影,http://hao6688.3322.org:30066/stream/channelid/977583088?ticket=7b9e177c908c4e8de248874e7d6d2762825064d6&profile=pass
-CHC家庭影院,http://hao6688.3322.org:30066/stream/channelid/1761842417?ticket=e470ada8428398790d83b3219c0297d0e56204e9&profile=pass
-CHC影迷电影,http://hao6688.3322.org:30066/stream/channelid/312349659?ticket=f7c8ff9489e96758326da4649d484432a9bb99f1&profile=pass
-重温经典,http://hao6688.3322.org:30066/stream/channelid/1416540929?ticket=56b3e8e6f82d4ea78d9ea33bae5c993df7596d31&profile=pass
-重温经典,http://hao6688.3322.org:30066/stream/channelid/1649151801?ticket=c31d7e9f66967519bc9f59fe3283ef2c98c765c3&profile=pass
-卡酷卡通,http://hao6688.3322.org:30066/stream/channelid/2045963679?ticket=72173971f868e41f28aa2d9f68d301d26b259e75&profile=pass
 体育频道,#genre#
 车迷频道,http://jxyxnk.x3322.net:4022/udp/239.252.220.215:5140
 快乐垂钓,http://jxyxnk.x3322.net:4022/udp/239.252.220.177:5140
@@ -1758,8 +1684,6 @@ CBA直播8,http://180.105.84.25:4000/udp/239.49.8.98:8000
 广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=20130
 广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=30031
 广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=12028
-天元围棋,http://hao6688.3322.org:30066/stream/channelid/1014506806?ticket=efb651920adc7c81ea02acde87f7840a20ccf0dc&profile=pass
-新视觉,http://hao6688.3322.org:30066/stream/channelid/688466407?ticket=132545b19b2a6006a4b2c7a10f544e8558c173f3&profile=pass
 RedBull Sport,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 RedBull Sport,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 PAC12 Insider,https://pac12-samsungus.amagi.tv/playlist.m3u8
