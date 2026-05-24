@@ -417,12 +417,6 @@
 
 
         {
-            "name": "国际ILOOK",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/ilook.m3u",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
             "name": "国际IPTV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/mylist.m3u",
