@@ -15,6 +15,12 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "绍兴-204TVH",
+            "type": 0,
+            "url": "http://hao6688.3322.org:30066/playlist/channels.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "咪咕直播",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/adminouyang/jy/refs/heads/main/proxy/mg.m3u",
@@ -452,6 +458,8 @@
             "url": "http://121.143.97.131:9981/playlist/channels.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
+
+
 
 
         {
