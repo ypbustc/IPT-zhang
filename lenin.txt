@@ -962,7 +962,7 @@ VIUTV6,http://122.100.242.52:12179/stream/channelid/750848819?profile=pass
 澳视葡文,http://122.100.242.52:12179/stream/channelid/1252295614?profile=pass
 台湾频道,#genre#
 HISTORY,http://dbmlasvgas.sylu.cc:8880/stream/c76f2a04-f804-47ab-b555-1bc5516c4bfa/playlist.m3u8
-MagellanTV,http://dbmlasvgas.sylu.cc:8880/stream/fd2db9e3-a596-4a98-ab1b-bc6851e78c52/playlist.m3u8
+麦哲伦,http://dbmlasvgas.sylu.cc:8880/stream/fd2db9e3-a596-4a98-ab1b-bc6851e78c52/playlist.m3u8
 TVBS,http://dbmlasvgas.sylu.cc:8880/stream/29264974-b2b0-418d-85a5-fe02cf74b577/playlist.m3u8
 寰宇新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-longturn14
 寰宇新闻,https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
@@ -1113,7 +1113,7 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 龙华日韩,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang11
 龙华戏剧,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang18
 龙华洋片,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang02
-MagellanTV,http://220.135.64.124:5050/4gtv-live123/index.m3u8?proxy=true
+麦哲伦,http://220.135.64.124:5050/4gtv-live123/index.m3u8?proxy=true
 民视,http://220.135.64.124:5050/4gtv-4gtv002/index.m3u8?proxy=true
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视第一,http://220.135.64.124:5050/4gtv-4gtv003/index.m3u8?proxy=true
