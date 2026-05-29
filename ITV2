@@ -8,9 +8,9 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "移动ITV",
+            "name": "freetv-jy",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/ypbustc/IPT-zhang/master/dns-itv.txt",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/adminouyang/jy/refs/heads/main/freetv/freetv.m3u",
             "logo":"https://live.404003.xyz/LOGO/{name}.png",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
@@ -21,7 +21,7 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "咪咕直播",
+            "name": "咪咕直播jy",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/adminouyang/jy/refs/heads/main/proxy/mg.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
