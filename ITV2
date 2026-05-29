@@ -57,7 +57,7 @@
 		{
             "name": "酒店jy",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/Hotel/IPTV.m3u",
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/adminouyang/jy/refs/heads/main/Hotel/IPTV.m3u",
             "logo":"https://live.404003.xyz/LOGO/{name}.png",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
