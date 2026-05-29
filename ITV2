@@ -27,14 +27,22 @@
 		    "logo":"https://live.404003.xyz/LOGO/{name}.png",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
+		{
+            "name": "咪咕直播ioptu",
+            "type": 0,
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/ioptu/migu_video/refs/heads/main/migu.m3u",
+		    "logo":"https://live.404003.xyz/LOGO/{name}.png",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+
         {
-            "name": "咪咕直播2",
+            "name": "咪咕直播develop202",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "咪咕直播3",
+            "name": "咪咕直播115",
             "type": 0,
             "url": "http://115.190.247.176:1111",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
