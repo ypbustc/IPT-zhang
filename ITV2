@@ -7,6 +7,27 @@
             "logo":"https://live.404003.xyz/LOGO/{name}.png",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
+		 {
+            "name": "6970-migu",
+            "type": 0,
+            "url": "http://itv5.v0v0.dpdns.org:55085/sub?6970-hotel=m3u",
+            "logo":"https://live.404003.xyz/LOGO/{name}.png",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+		 {
+            "name": "6570-hotel",
+            "type": 0,
+            "url": "http://itv5.v0v0.dpdns.org:55085/sub?6970-hotel=m3u",
+            "logo":"https://live.404003.xyz/LOGO/{name}.png",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+		 {
+            "name": "6970-zb",
+            "type": 0,
+            "url": "http://itv5.v0v0.dpdns.org:55085/sub?6970-zb=m3u",
+            "logo":"https://live.404003.xyz/LOGO/{name}.png",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
         {
             "name": "freetv-jy",
             "type": 0,
