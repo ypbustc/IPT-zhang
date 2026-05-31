@@ -35,6 +35,13 @@
             "logo":"https://live.404003.xyz/LOGO/{name}.png",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
+		{
+            "name": "hotel-jy",
+            "type": 0,
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/adminouyang/jy/refs/heads/main/Hotel/IPTV.m3u",
+            "logo":"https://live.404003.xyz/LOGO/{name}.png",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
         {
             "name": "绍兴-204TVH",
             "type": 0,
@@ -42,7 +49,7 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "咪咕直播jy",
+            "name": "咪咕-jy",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/adminouyang/jy/refs/heads/main/proxy/mg.m3u",
 		    "logo":"https://live.404003.xyz/LOGO/{name}.png",
@@ -72,13 +79,6 @@
             "name": "LU酒店",
             "type": 0,
             "url": "https://d.kstore.dev/download/8344/1电信酒店.txt",
-            "logo":"https://live.404003.xyz/LOGO/{name}.png",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-		{
-            "name": "酒店jy",
-            "type": 0,
-            "url": "https://gh-proxy.org/raw.githubusercontent.com/adminouyang/jy/refs/heads/main/Hotel/IPTV.m3u",
             "logo":"https://live.404003.xyz/LOGO/{name}.png",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
