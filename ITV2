@@ -32,6 +32,7 @@
             "name": "109-ysp",
             "type": 0,
             "url": "http://itv5.v0v0.dpdns.org:3099/live.m3u",
+			"logo":"https://live.404003.xyz/LOGO/{name}.png",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 		{
