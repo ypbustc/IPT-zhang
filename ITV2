@@ -37,7 +37,7 @@
 		{
             "name": "my-migu",
             "type": 0,
-            "url": "https://itv5.v0v0.dpdns.org:13566/",
+            "url": "http://itv5.v0v0.dpdns.org:3566/",
             "logo":"https://live.404003.xyz/LOGO/{name}.png",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
