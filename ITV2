@@ -29,16 +29,16 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 		{
-            "name": "109-ysp",
+            "name": "139-ysp",
             "type": 0,
             "url": "http://139.196.167.175:3099/live.m3u",
 			"logo":"https://live.404003.xyz/LOGO/{name}.png",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 		{
-            "name": "my-migu",
+            "name": "139-migu",
             "type": 0,
-            "url": "http://139.196.167.175:3566/",
+            "url": "http://139.196.167.175:3567/m3u",
             "logo":"https://live.404003.xyz/LOGO/{name}.png",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
